@@ -1,11 +1,11 @@
-# 🤖 J.A.R.V.I.S — AI Assistant v2.0
+# J.A.R.V.I.S — AI Assistant v2.0
 
 > **Just A Rather Very Intelligent System**  
 > A real-world, feature-rich, voice-enabled AI assistant built in Python — inspired by Tony Stark's JARVIS.
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature | Command | API Used |
 |---|---|---|

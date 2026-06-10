@@ -1,0 +1,30 @@
+# JARVIS .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+*.so
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# JARVIS data / secrets
+data/notes.json
+logs/
+.env
+config_local.py
+
+# OS
+.DS_Store
+Thumbs.db

@@ -4,8 +4,8 @@
 ║          J.A.R.V.I.S — Just A Rather Very              ║
 ║           Intelligent System — v2.0 MEGA                ║
 ╚══════════════════════════════════════════════════════════╝
-  Author   : You & Claude
-  GitHub   : github.com/yourname/JARVIS
+  Author   : Hassan Khan
+  GitHub   : github.com/hassankhan606/JARVIS
   License  : MIT
 """
 

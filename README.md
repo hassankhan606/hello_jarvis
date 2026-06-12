@@ -13,7 +13,7 @@
 | 🌤 Live Weather | `weather London` | wttr.in (free) |
 | 📰 Real-time News | `news technology` | BBC RSS / GNews |
 | 🔍 Wikipedia Search | `search black holes` | Wikipedia API |
-| 🌐 Web Instant Answers | `web who is Elon Musk` | DuckDuckGo API |
+| 🌐 Web Instant Answers | `web who is propellant fuel` | DuckDuckGo API |
 | 👤 Person Lookup | `person Albert Einstein` | Wikipedia |
 | 📍 Place Info | `place Tokyo` | Wikipedia + wttr |
 | 🎬 Movie Details | `movie Inception` | OMDb API |

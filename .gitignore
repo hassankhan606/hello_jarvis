@@ -19,7 +19,7 @@ env/
 .idea/
 *.swp
 
-# JARVIS data / secrets
+# JARVIS data / 
 data/notes.json
 logs/
 .env
